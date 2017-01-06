@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"AutoHotkey",
+		"Babel",
+		"Color Highlighter",
+		"Duotones Colorschemes",
+		"Emmet",
+		"Evernote",
+		"Git",
+		"Jade",
+		"MarkdownEditing",
+		"Material Theme",
+		"nginx",
+		"Package Control",
+		"ProjectManager",
+		"Sass",
+		"SCSS",
+		"Theme - Flatland",
+		"Theme - SoDaReloaded",
+		"Themr",
+		"Todo.txt Syntax"
+	]
+}
